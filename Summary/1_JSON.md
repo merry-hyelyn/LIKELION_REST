@@ -16,7 +16,7 @@ Only 데이터
 
 Python의 표준 라이브러리에서 제공되므로 django에서 *import*하여 사용가능
 
-json형식으로 변환 시
-`json.dumps`
-`json데이터를 변환 시
-`json.loads()`
+json형식으로 변환 시<br>
+`json.dumps`<br>
+json데이터를 변환 시<br>
+`json.loads()`<br>
