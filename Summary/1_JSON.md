@@ -15,3 +15,8 @@ Only 데이터
 직렬화 : 데이터를 문자열로 바꾸는 과정
 
 Python의 표준 라이브러리에서 제공되므로 django에서 *import*하여 사용가능
+
+json형식으로 변환 시
+'''json.dumps'''
+json데이터 변환 시
+'''json.loads()'''
